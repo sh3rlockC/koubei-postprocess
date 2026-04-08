@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.xlsx
+*.xls
+*.json
+*.png
+*_test/
+pipeline_test/
+pipeline_full_test/
