@@ -77,3 +77,10 @@ python3 skills/koubei-postprocess/scripts/run_koubei_postprocess_pipeline.py \
 - ZJ / DCD 最终交付统一推荐命名为“最终版”
 - 合并默认按 `来源链接` 去重
 - 子车型优先从双平台汇总筛，不优先重跑采集
+
+## Changelog & Releases
+
+- User-visible changes are tracked in [`CHANGELOG.md`](./CHANGELOG.md).
+- For a new release, update the `Unreleased` section first, then cut the versioned release.
+- GitHub Release notes should match the same user-visible changes, not just raw commit history.
+
